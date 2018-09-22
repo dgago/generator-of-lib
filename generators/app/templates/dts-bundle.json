@@ -1,5 +1,5 @@
 {
   "name": "<%= appname %>",
-  "main": "./dist/@types/**/*.d.ts",
+  "main": "./dist/@types/index.d.ts",
   "out": "../index.d.ts"
 }
